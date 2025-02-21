@@ -21,7 +21,7 @@ The dataset looks like this:
 
 ![image](Images/img3.png) 
 
-Breakdown of the variables:
+### Breakdown of the variables:
 * ```diagnosis```:
     - 0: Malignant Tumor
     - 1: Banign Tumor
