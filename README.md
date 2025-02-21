@@ -9,6 +9,8 @@ Our task is to find these malignant tumors, so the corresponding patients can ge
 Our dataset will contain details about these tumors and we should ```classify``` if they are benign or malignant.
 
 ## Dataset
+
+### Fine needle aspiration
 *Fine needle aspiration:* A type of biopsy procedure. In fine needle aspiration, a thin needle is inserted into an area of abnormal-appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule out conditions such as cancer.
 
 Our data is derived from this particular examination.
