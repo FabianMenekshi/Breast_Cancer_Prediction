@@ -36,4 +36,4 @@ Breakdown of the variables:
 * ```symmetry_mean```
 * ```fractal_dimensional_mean```
 
-We are gonna use some a ML model (Logistic Regression) to find some relationship between the data and train our predictive model.
+We're gonna use a ML model (Logistic Regression) to find some relationship between the data and train our predictive model.
