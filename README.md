@@ -37,3 +37,7 @@ Breakdown of the variables:
 * ```fractal_dimensional_mean```
 
 We're gonna use a ML model (Logistic Regression) to find some relationship between the data and train our predictive model.
+
+## Future Work:
+- Implement the Logistic Regression model from scratch
+- Breast Cancer Classification with Neural Networks
