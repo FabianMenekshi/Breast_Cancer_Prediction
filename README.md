@@ -13,7 +13,7 @@ Our dataset will contain details about these tumors and we should ```classify```
 
 Our data is derived from this particular examination.
 
-![image](Images/img2.png)
+![image](Images/img2.jpg)
 
 The dataset looks like this:
 
