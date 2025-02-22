@@ -38,6 +38,8 @@ The dataset looks like this:
 
 We're gonna use a ML model (Logistic Regression) to find some relationship between the data and train our predictive model.
 
+> Link to the dataset on Kaggle: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
 ## Future Work (in the following days/weeks):
 - Implement the Logistic Regression model from scratch
 - Breast Cancer Classification with Neural Networks
